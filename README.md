@@ -58,6 +58,3 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
-#� �v�u�e�3�-�s�t�u�d�y�
-�
-�
